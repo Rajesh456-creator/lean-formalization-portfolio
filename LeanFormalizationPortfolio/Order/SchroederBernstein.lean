@@ -1,5 +1,5 @@
 import LeanFormalizationPortfolio.Order.KnasterTarski
-import Mathlib.Data.Set.Basic
+import Mathlib.Data.Set.Lattice
 
 /-!
 # Cantor–Schröder–Bernstein via Knaster–Tarski
