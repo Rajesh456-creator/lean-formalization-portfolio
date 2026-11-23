@@ -1,3 +1,5 @@
+![Lean CI](https://github.com/Rajesh456-creator/lean-formalization-portfolio/actions/workflows/lean_action_ci.yml/badge.svg)
+
 # Lean Formalization Portfolio
 
 Lean 4 + Mathlib formalizations, written from scratch for practice.
