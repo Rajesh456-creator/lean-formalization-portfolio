@@ -1,2 +1,5 @@
 import LeanFormalizationPortfolio.Order.KnasterTarski
 import LeanFormalizationPortfolio.Order.SchroederBernstein
+import LeanFormalizationPortfolio.Combinatorics.Ramsey33
+import LeanFormalizationPortfolio.Combinatorics.VanDerWaerden
+import LeanFormalizationPortfolio.Combinatorics.Schur
